@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<link href="masood_layout_old.css" rel="stylesheet" type="text/css">
+		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script src="jquery.poptrox.min.js"></script>
+<meta charset="utf-8">
+<head><imG id="img" src="imgs\Masood Fashion Studio.png" />
+</head>
+
+	<body>
+	
+	<div >
+
+<p></p>
+<p><imG id="img" src="imgs\MFS2.png" /></p>
+<p><imG id="img" src="imgs\DCS.png" /></p>
+<p><imG id="img" src="imgs\DCS4.png" /></p>
+</div>
+
+		<div id="container1">
+	<!-- start -->
+			<ul id="gallery">
+				<li><a href=""><img src="" title="test." alt="" /></a></li>
+
+				<br class="clear" />
+				<script type="text/javascript">
+				$('#gallery').poptrox();
+				</script>
+	<!-- end -->
+	
+
+
+		</div>
+	</body>
+	
+</html>

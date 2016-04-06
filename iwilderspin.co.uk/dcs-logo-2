@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<link href="dcs-logo-2.css" rel="stylesheet" type="text/css">
+
+<meta charset="utf-8">
+<head>
+</head>
+	<body id = "body">
+	<div id = "banner"><img id = "bannerimg" src = "imgs/masood/banner7.png"></div> 
+	
+	
+	 <a href ="http://www.iwilderspin.co.uk/masood">Start</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href ="http://www.iwilderspin.co.uk/dcs-logo">Page 1</a>&nbsp;&nbsp;
+	
+		<div id = "cushion" >
+	<!-- start -->
+			<ul id="gallery">
+				
+			
+				<li>73<img id = "img" src="imgs/masood/DCS84.png" title="MSD" alt="" /></li>
+				<li>74<img id = "img" src="imgs/masood/DCS85.png" title="MSD" alt="" /></li>
+				<li>75<img id = "img" src="imgs/masood/DCS86.png" title="MSD" alt="" /></li>
+				<li>76<img id = "img" src="imgs/masood/DCS87.png" title="MSD" alt="" /></li>
+				<li>77<img id = "img" src="imgs/masood/DCS88.png" title="MSD" alt="" /></li>
+				<li>78<img id = "img" src="imgs/masood/DCS89.png" title="MSD" alt="" /></li>
+				<li>79<img id = "img" src="imgs/masood/DCS90.png" title="MSD" alt="" /></li>
+				<li>80<img id = "img" src="imgs/masood/DCS91.png" title="MSD" alt="" /></li>
+				<li>81<img id = "img" src="imgs/masood/DCS92.png" title="MSD" alt="" /></li>
+				<li>82<img id = "img" src="imgs/masood/DCS93.png" title="MSD" alt="" /></li>
+				<li>83<img id = "img" src="imgs/masood/DCS94.png" title="MSD" alt="" /></li>
+				<li>84<img id = "img" src="imgs/masood/DCS95.png" title="MSD" alt="" /></li>
+				<li>85<img id = "img" src="imgs/masood/DCS96.png" title="MSD" alt="" /></li>
+				<li>86<img id = "img" src="imgs/masood/DCS97.png" title="MSD" alt="" /></li>
+				<li>87<img id = "img" src="imgs/masood/DCS98.png" title="MSD" alt="" /></li>
+				<li>88<img id = "img" src="imgs/masood/DCS99.png" title="MSD" alt="" /></li>
+				<li>89<img id = "img" src="imgs/masood/DCS100.png" title="MSD" alt="" /></li>
+				<li>90<img id = "img" src="imgs/masood/DCS101.png" title="MSD" alt="" /></li>
+				<li>91<img id = "img" src="imgs/masood/DCS102.png" title="MSD" alt="" /></li>
+				<li>92<img id = "img" src="imgs/masood/DCS103.png" title="MSD" alt="" /></li>
+				
+			</ul>	
+			
+				
+
+
+
+
+	  
+	
+	
+		
+		</div>
+	</body>
+</html>
