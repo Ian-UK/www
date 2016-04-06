@@ -1,0 +1,74 @@
+#img
+	{	
+	padding-bottom: 50px;
+	border:0;
+	width:30%;
+   	margin-left: auto;
+    	margin-right: auto;
+	display: block;
+	}
+	
+#gallery
+	{ 	
+	border:0;
+	overflow: hidden;
+	list-style: none;
+	}
+
+li
+	{
+	color: #333333;	
+	font-size: 40px;
+	text-align:center;
+	}
+
+
+#banner { 
+	width:99%;
+	height: 10%;
+	background-color: #333333;
+	}
+
+#bannerimg 
+	{ 
+	width:30%;
+	height: 5%;
+	background-color: #333333;
+    	margin-left: auto;
+    	margin-right: auto;
+	display: block;
+	padding-top: 1cm;
+	}
+
+#body {
+	background-color: #333333;
+	}
+
+#cushion
+	{
+	border-radius:25px;
+	background-color:#6699CC;
+	}
+	
+/* unvisited link */
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+     text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
